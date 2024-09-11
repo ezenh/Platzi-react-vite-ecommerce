@@ -1,5 +1,5 @@
 import { useContext } from "react"
-import { LoginContext } from "../Context"
+import { LoginContext } from "../../Context"
 
 function LogoutMessage() {
     const loginContext = useContext(LoginContext)

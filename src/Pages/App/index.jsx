@@ -10,7 +10,7 @@ import {LoginContext, LoginContextProvider, ContextProvider } from "../../Contex
 import AppRoutes from "../../Routes"
 
 // Components
-import LogoutMessage from "../../Components/logoutMessage"
+import LogoutMessage from "../../Components/LogoutMessage"
 import Navbar from "../../Components/Navbar"
 
 // Styles
