@@ -1,0 +1,7 @@
+.top-mask {
+    mask: linear-gradient(rgb(0,0,0, 1) 80%, rgb(0,0,0, 0) 100%);
+}
+
+.cart-product-container {
+    mask: linear-gradient(to top, rgb(0,0,0, 1) 90%, rgb(0,0,0, 0));
+}
